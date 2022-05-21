@@ -26,7 +26,7 @@
                             <button type="submit" class="btn btn-link btn-sm text-danger p-0">Delete User</button>
                         </form>
                         @endcan
-                        <!-- <a href="" class="btn btn-link btn-sm text-danger p-0">Delete Account</a> -->
+                    
                     </div>
                 </div>
             </div>
